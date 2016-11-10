@@ -1,0 +1,5 @@
+projectKey=my:prCoche
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/my:prCoche
+ceTaskId=AVhNQ1qVE6KIKiRXQMFi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVhNQ1qVE6KIKiRXQMFi
